@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "iPadCalculator",
+    "slug": "iPadCalculator",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
